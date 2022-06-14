@@ -1,0 +1,6 @@
+SentencePiece is tokenization method.
+It utilises unsupervised learning methode to  tokenize text.
+Moreover it can detokenize text  NN text generation systems.
+In this method, tokeniser uses a big vocabulary which is specialized for our sentences. 
+SentencePiece uses methods such as BPE or unigram language model beside training from raw sentences.
+SentencePiece does not depend on language-specific pre/postprocessing.
